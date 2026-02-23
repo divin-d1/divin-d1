@@ -9,7 +9,7 @@
 ## About me
 I’m Rukundo Furaha Divin — CEO at Ngwino, backend engineer, prompt engineer, Machine Learning Engineer and cybersecurity practitioner focused on testing and hardening systems. I combine hands-on engineering, security testing, and product leadership to bring ideas into production.
 
-- Role: CEO at Ngwino
+- Role: CEO at Sicily Labs
 - Location: Rwanda
 - Availability: Open to work
 
