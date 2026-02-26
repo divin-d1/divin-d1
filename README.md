@@ -7,13 +7,13 @@
 ---
 
 ## About me
-I’m Rukundo Furaha Divin — CEO at Ngwino, backend engineer, prompt engineer, Machine Learning Engineer and cybersecurity practitioner focused on testing and hardening systems. I combine hands-on engineering, security testing, and product leadership to bring ideas into production.
+I’m Rukundo Furaha Divin — CEO at Sicily Labs, backend engineer, prompt engineer, Machine Learning Engineer and cybersecurity practitioner focused on testing and hardening systems. I combine hands-on engineering, security testing, and product leadership to bring ideas into production.
 
 - Role: CEO at Sicily Labs
 - Location: Rwanda
 - Availability: Open to work
 
-Ngwino collaborates directly with founders and creators to bring their ideas to life — from concept and scoping to implementation and delivery.
+Sicily labs collaborates directly with founders and creators to bring their ideas to life — from concept and scoping to implementation and delivery.
 
 ---
 
@@ -60,7 +60,7 @@ We are ready to work on your project as a team — from scoping and architecture
 
 ## Contact
 - Instagram: https://www.instagram.com/divin_d1/
-- Email: rukundof993@gmail.com
+- Email: rukundofurahadivin@sicilylabs.rw
 - WhatsApp: +250 792 050 511
 
 Thanks for visiting — let’s build something great together. 🚀
